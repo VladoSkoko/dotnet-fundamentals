@@ -8,7 +8,7 @@ This document explores the fundamental concepts of C# and the .NET framework by 
 
 1. [.NET Framework and SDK](https://github.com/VladoSkoko/dotnet-fundamentals/tree/main/1.%20.NET%20Framework%20and%20SDK)
     1. [Terminology](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/01.%20Terminology.md)
-    2. [(Introduction and History)](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/02.%20Introduction%20and%20History.md)
+    2. [Introduction and History](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/02.%20Introduction%20and%20History.md)
     3. [Common Language Runtime (CLR)](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/03.%20Common%20Language%20Runtime%20(CLR).md)
     4. [Installation](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/04.%20Installation.md)
     5. [Libraries](https://github.com/VladoSkoko/dotnet-fundamentals/blob/main/1.%20.NET%20Framework%20and%20SDK/05.%20Libraries.md)
